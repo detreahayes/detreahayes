@@ -7,6 +7,8 @@ I bridge the gap between building applications and running them at scale. Select
 [ View Software Engineering Profile 💻 ](#-software-engineering-track) | [ View DevOps Profile 🚀 ](#-devops-track)
 
 
+
+
 ## 🚀 DevOps Track
 
 #### 🛠️ [IT Roles By Personality](https://github.com/detreahayes/IT-Roles-By-Personality)
